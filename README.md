@@ -4,4 +4,4 @@ This C++ code reads a matrix of integers from a file and adds the values of each
 
 To use the program, simply compile and run the code in your compiler. You will be prompted to enter the name of the file containing the polynomials to add. After adding the file the program will run and add the polynomials together. Once the program has finished running, the result of the polynomial addition will be output to the file "result_addition.txt".
 
-*Attached to this repo are example polynomial files, which can be used to test the program*
+*Attached to this repo are example polynomial txt files, which can be used to test the program*
